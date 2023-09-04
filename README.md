@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AlynaNastas">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Alyna Nastas Romaniuc" /></a>
+    <img src="https://github.com/AlynaNastas" alt="Alyna Nastas Romaniuc" /></a>
 </p>
 
 **`Full Stack Developer specialized in Front-end`** :woman_technologist:
