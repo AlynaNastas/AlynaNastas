@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Alyna Nastas Romaiuc</h1>
 </div>
+<div align="center">
+<a href="https://www.linkedin.com/in/alyna-nastas-romaniuc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 **`Full Stack Developer specialized in Front-end`** :woman_technologist:
 
@@ -51,11 +55,7 @@ I am a passionate and dedicated Full Stack Developer Junior with a strong founda
 <a href = "mailto:nastasalyna@gmail.com"><img src="https://img.shields.io/badge/Gmail-C6362C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <div>alynanastas@gmail.com</div>
 </div>
-</ br>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/alyna-nastas-romaniuc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 
 
