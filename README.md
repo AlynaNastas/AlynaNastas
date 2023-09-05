@@ -54,7 +54,7 @@ I am a passionate and dedicated Full Stack Developer Junior with a strong founda
 ### Get in touch :envelope_with_arrow:
 <div align="center">
 <a href = "mailto:nastasalyna@gmail.com"><img src="https://img.shields.io/badge/Gmail-C6362C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<div>alynanastas@gmail.com</div>
+<div>nastasalyna@gmail.com</div>
 </div>
 
 
